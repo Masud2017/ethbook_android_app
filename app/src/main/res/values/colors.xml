@@ -4,5 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#F5F52E</color>
     <color name="text_color">#252525</color>
+    <color name = "blue">#231675</color>
 
 </resources>
